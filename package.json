@@ -1,6 +1,10 @@
 {
   "name": "gareys",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gareys/gareys.git"
+  },
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-contrib-jshint": "~0.10.0",
