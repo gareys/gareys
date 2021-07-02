@@ -1,7 +1,14 @@
-# <a href="#hi-im-garey"><img src="https://cdn.jsdelivr.net/gh/gareys/assets-cdn/gareys/wave.gif" width="35px" /></a>&nbsp;<b>Hi, I'm Garey</b>
-<br>
+# <a href="#hi-im-garey"><img src="https://cdn.jsdelivr.net/gh/gareys/assets-cdn/gareys/wave.gif" width="35px" /></a>&nbsp;<b>Hi, I'm Garey</b><img align="right" width="250" height="250" alt="picture of me" src="https://cdn.jsdelivr.net/gh/gareys/assets-cdn/gareys/profile.png" />
+
 I'm a Software Engineer in Atlanta, Georgia!
 <br>
+
+<h2>Where to find me</h2>
+<p>
+  <a href="https://github.com/gareys" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gareys/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 <h2>Some things I know well</h2>
 <p>
   <a href="#some-things-i-know-well"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2d79c7?style=flat-square&logo=TypeScript&logoColor=white" /></a>
@@ -21,12 +28,6 @@ I'm a Software Engineer in Atlanta, Georgia!
   <a href="#some-things-i-know-well"><img alt="Ruby" src="https://img.shields.io/badge/-Ruby-c60000?style=flat-square&logo=Ruby&logoColor=white" /></a>
   <a href="#some-things-i-know-well"><img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-95ce02?style=flat-square&logo=Jenkins&logoColor=white" /></a>
   <a href="#some-things-i-know-well"><img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-000000?style=flat-square&logo=CircleCI&logoColor=white" /></a>
-</p>
-
-<h2>Where to find me</h2>
-<p>
-  <a href="https://github.com/gareys" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gareys/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <h2>My Github Stats</h2>
