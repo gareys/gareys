@@ -1,3 +1,5 @@
+<img src="https://cdn.jsdelivr.net/gh/gareys/assets-cdn/gareys/header.png" width="100%" />
+
 # <a href="#hi-im-garey"><img src="https://cdn.jsdelivr.net/gh/gareys/assets-cdn/gareys/wave.gif" width="35px" /></a>&nbsp;<b>Hi, I'm Garey</b><img align="right" width="250" height="250" alt="picture of me" src="https://cdn.jsdelivr.net/gh/gareys/assets-cdn/gareys/profile.png" />
 
 I'm a Software Engineer in Atlanta, Georgia!
@@ -43,3 +45,4 @@ I'm a Software Engineer in Atlanta, Georgia!
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=gareys.profile)](#my-github-stats)
 
 </span>
+<img src="https://cdn.jsdelivr.net/gh/gareys/assets-cdn/gareys/footer.png" width="100%" />
