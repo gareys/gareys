@@ -37,3 +37,9 @@ I'm a Software Engineer in Atlanta, Georgia!
 [![Garey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gareys&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0366D6&icon_color=0366D6&text_color=000000&hide_title=true)](#my-github-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gareys&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0366D6&exclude_repo=homework,treebook,TeamCalc,PictureBook)](#my-github-stats)
+
+<span align="right">
+
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=gareys.profile)](#my-github-stats)
+
+</span>
